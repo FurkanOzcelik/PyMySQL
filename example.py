@@ -12,8 +12,7 @@ cur.execute("SELECT Host,User FROM user")
 print(cur.description)
 
 print()
-
-
+# ibrhm
 for row in cur:
     print(row)
 
