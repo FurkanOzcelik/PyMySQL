@@ -13,6 +13,7 @@ print(cur.description)
 
 print()
 
+
 for row in cur:
     print(row)
 
